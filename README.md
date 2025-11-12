@@ -1,19 +1,54 @@
-👋 Hi, I’m M-Saad
+# Muhammad Saad  
+**MERN Stack Developer**
 
-👀 I’m passionate about Web Development and love building real-world projects
+---
 
-🌱 Currently exploring Full-Stack Development using the MERN Stack (MongoDB, Express.js, React, Node.js)
+## 👋 About Me  
+Hi there! I'm a passionate MERN stack developer with over **1 year of experience** building **self-led projects**.  
+I love creating fast, modern, and scalable web applications that deliver a smooth user experience.  
+My goal is to keep improving my full-stack development skills and explore advanced technologies that enhance app performance and real-time functionality.
 
-💻 I’ve completed several projects including a CRUD task manager, Netflix UI clone, and more
+---
 
-🤝 Open to collaboration on web apps, open-source projects, or anything exciting in tech
+## 💻 My Web Development Skills  
 
-📫 Reach me via email: msaadi3806@gmail.com
+I’m proficient in developing full-stack web applications using:
 
-🛠️ Skills: C, C++, C#, HTML, CSS, JavaScript, GitHub, Vercel, MERN Stack
+- **Frameworks & Libraries:** React, Express, Node.js  
+- **Languages:** JavaScript, Python, C, C++, C#, HTML, CSS  
+- **Styling:** Tailwind CSS, Bootstrap, Shadcn UI  
+- **Database:** MongoDB  
 
-⚡ Fun facts: I enjoy coding, debates, naats, singing, and love sports like cricket, football, and badminton
-<!---
-M-Saad257/M-Saad257 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I have hands-on experience building features like:  
+- ✅ E-commerce systems  
+- ✅ Order tracking  
+- ✅ Authentication flows  
+- ✅ Real-time updates using Socket.IO & Polling  
+
+You can explore my work through my repositories and portfolio below.
+
+---
+
+## 🌱 What I'm Learning Next  
+
+- Advanced React & Next.js concepts  
+- Backend optimization and API performance tuning  
+- Scalable database structures (MongoDB aggregation, indexing)  
+- Web security & authentication best practices (JWT, OAuth)  
+- Deployment and CI/CD pipelines (Vercel, Render, Docker basics)  
+
+---
+
+## 🔗 Portfolio  
+🎯 **Check out my live portfolio:** [saads-portfolio.vercel.app](https://saads-portfolio.vercel.app/)
+
+---
+
+## 📊 GitHub Stats  
+
+![Saad's GitHub stats](https://github-readme-stats.vercel.app/api?username=saad&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saad&layout=compact&theme=tokyonight)
+
+---
+
+⭐ **“Code. Create. Improve. Repeat.”**
