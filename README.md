@@ -44,11 +44,4 @@ You can explore my work through my repositories and portfolio below.
 
 ---
 
-## 📊 GitHub Stats  
-
-![Saad's GitHub stats](https://github-readme-stats.vercel.app/api?username=saad&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saad&layout=compact&theme=tokyonight)
-
----
-
 ⭐ **“Code. Create. Improve. Repeat.”**
